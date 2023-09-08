@@ -1,2 +1,2 @@
 # proyectosPIO
-Esta es la recopilación de proyectos hechos en la secundaria
+Este repositorio es la recopilación de proyectos, trabajos y librerías personales hechas durante el secundario técnico.
